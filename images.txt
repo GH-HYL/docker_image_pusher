@@ -1,5 +1,5 @@
 
-zabbix/zabbix-agent
+mysql:8.0
 
 
 
