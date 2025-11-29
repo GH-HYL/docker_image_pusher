@@ -1,5 +1,5 @@
 
-mysql
+zabbix/zabbix-agent
 
 
 
