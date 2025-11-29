@@ -1,2 +1,18 @@
-zabbix/zabbix-server-mysql
+
+zabbix/zabbix-web-nginx-mysql
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
